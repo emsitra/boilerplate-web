@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/boilerplate-web/static/css/main.073c9b0a.css",
+    "main.js": "/boilerplate-web/static/js/main.3ea1be08.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/boilerplate-web/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/logo.svg": "/boilerplate-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/boilerplate-web/index.html",
+    "main.073c9b0a.css.map": "/boilerplate-web/static/css/main.073c9b0a.css.map",
+    "main.3ea1be08.js.map": "/boilerplate-web/static/js/main.3ea1be08.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/boilerplate-web/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3ea1be08.js"
+  ]
+}
